@@ -6,7 +6,7 @@ In 2023, I seized the opportunity, dedicating myself to self-study and graduatin
 
 As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. 
 
-Proud of my Latin roots, I'm always eager to embrace fresh challenges and continue my learning journey with a strong work ethic and adaptability. I'm excited to embark on this software development journey and see where it leads me!
+Proud of my Latino and immigrant roots, I'm always eager to embrace fresh challenges and continue my learning journey with a strong work ethic and adaptability. I'm excited to embark on this software development journey and see where it leads me!
 
 Let's connect! I'm keen to explore opportunities for collaboration and bring your ideas to life.
 
