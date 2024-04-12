@@ -1,9 +1,9 @@
 <h1 align="center"> Oi, I am Felipe!</h1>
 <div align="center">
-     <h3>1</h3>  <br>
-  <h3>1</h3>  <br>
-      <h3>1</h3>  <br>
-       <h3>1</h3>  <br>
+     <h3>1</h3>  
+      <h3>1</h3>  
+      <h3>1</h3>  
+     <h3>1</h3>  
    <br>
 </div>
 
