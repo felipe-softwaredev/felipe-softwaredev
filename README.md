@@ -1,4 +1,4 @@
-<h2 align="center"> Oi/Hola/Hi, I am Felipe!</h2>
+<h1 align="center"> Oi, I am Felipe!</h1>
 
 
 
