@@ -1,6 +1,14 @@
 ### Oi/Hola/Hi, I am Felipe!
 
-<p>hello</p><img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=500/>
+
+<div align="center">
+ <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=500/>
+
+
+   <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=500/>
+
+</div>
+<p>hello</p>
 
 
 
