@@ -1,8 +1,9 @@
-### Oi/Hola/Hi, I am Felipe!
+<h2 align="center">### Oi/Hola/Hi, I am Felipe!</h2>
+
 
 
 <div align="center">
-<h1>hello</h1>
+<div>hello</div>
 
 
    <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=500/>
