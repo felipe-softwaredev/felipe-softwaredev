@@ -16,7 +16,7 @@
 
 
 
-<p style="text-align: center;"><h4>I'm Felipe, a Fullstack Developer driven by a passion for creating impactful solutions. I enjoy working on projects where I can leverage my creative side and explore most of my technical skills. <br><br>
+<p style="text-align: center;"><h4>I'm Felipe, a Fullstack Developer driven by a passion for creating impactful solutions. I enjoy  projects where I can leverage my creative side and apply my technical skills. <br><br>
      As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition.</h4> </p>
 
 
