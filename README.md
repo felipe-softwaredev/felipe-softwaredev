@@ -10,7 +10,7 @@
 
 </div>
 
-<div style="background-image: url(https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60)"></div>
+<div background-image: url("https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60")></div>
 
 <div align="center">
    <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=600 style="border-radius:50"/>
