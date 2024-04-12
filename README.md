@@ -1,10 +1,11 @@
 <h1 align="center"> Oi, I am Felipe!</h1>
-<ul>
+<div align="center"><ul>
    <li>1</li>
       <li>1</li>
       <li>1</li>
       <li>1</li>
-</ul>
+</ul></div>
+
 
 
 
