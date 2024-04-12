@@ -3,12 +3,12 @@
 
 
 <div align="center">
-<div><ul>
+<ul>
    <li>1</li>
       <li>1</li>
       <li>1</li>
       <li>1</li>
-</ul></div>
+</ul>
 
 
    <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=500/>
