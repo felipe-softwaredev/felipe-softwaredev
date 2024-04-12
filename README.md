@@ -1,5 +1,6 @@
 <h1 align="center"> Oi, I am Felipe!</h1>
-<div align="center">
+<div style="background-image: url('https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60'); height: 400px; width: 400px;">Text here</div>
+<div align="center" backgroundI>
      <h3>1</h3>  
       <h3>1</h3>  
       <h3>1</h3>  
