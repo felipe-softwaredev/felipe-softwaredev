@@ -28,16 +28,16 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 
 <h4>Languages:</h4>
 <div align='center'>
-<p class='javascript' >
+<p class='javascript' style="display: inline" >
      <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 </p>
 <p class='typescript' style="display: inline">
      <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
 </p>
-<div class='python'>
+<div class='python' style="display: inline">
      <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
 </div>
-<div class='html5'>
+<div class='html5' style="display: inline">
      <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
 </div>
 <div class='css'>
