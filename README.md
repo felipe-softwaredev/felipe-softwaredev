@@ -8,6 +8,7 @@
      <h3> ✨ Fan of user-friendly and visually captivating experiences</h3> 
      <h3> 🎧 Avid streamer & 🎮 Gamer!</h3>  
 </div>
+<br>
 
 
 
