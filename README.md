@@ -27,7 +27,7 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 </div>
 
 <h4>Languages:</h4>
-<div style="display: inline">
+<div align='center'>
 <div class='javascript' >
      <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 </div>
