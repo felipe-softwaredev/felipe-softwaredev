@@ -21,7 +21,7 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 
 </p>
 
-<h3 align="center"> Tech Stack</h1>
+<h2 align="center"> Tech Stack</h2>
 <div>
      
 </div>
