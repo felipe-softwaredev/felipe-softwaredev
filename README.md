@@ -11,7 +11,7 @@
 
 
 <div align="center">
-   <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=600 style="border-radius:50"/>
+   <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=400 style="border-radius:50"/>
 </div>   <br>
 
 <p style="text-align: center; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions while leveraging my creative side. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. <br><br>
