@@ -22,7 +22,8 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 </p>
 
 <h3 align="center"> Tech Stack</h1>
- (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<hr>
+ ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
