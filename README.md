@@ -13,7 +13,7 @@
 
 
 <p style="text-align: center; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions while leveraging my creative side. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. <br><br>
-My legal and corporate background gives me a unique edge, allowing me to bring fresh perspectives to the table. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. 
+My legal and corporate background gives me a unique edge, allowing me to bring fresh perspectives to the table. I'm always eager to embrace fresh challenges and continue my learning journey with a strong work ethic and adaptability. 
 </p>
 
 Feel free to check my [Portfolio](https://feliperamos.onrender.com) to see some of my work.
