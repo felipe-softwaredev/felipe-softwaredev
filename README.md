@@ -12,7 +12,7 @@
 
 <div float="left">
  <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=400 style="border-radius:50"/>
- <p>hello</p>    
+ <span>hello</span>    
 </div>
 
 <div align="center">
