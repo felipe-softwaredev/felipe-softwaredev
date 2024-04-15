@@ -27,7 +27,8 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 </div>
 
 <h4>Languages:</h4>
-<div class='javascript' style="display: inline">
+<div style="display: inline">
+<div class='javascript' >
      <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
 </div>
 <div class='typescript' style="display: inline">
@@ -42,6 +43,7 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 <div class='css'>
      <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
 </div>
+ </div>
 <h4>Database:</h4>
 <div class='postgresql'>
      <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
