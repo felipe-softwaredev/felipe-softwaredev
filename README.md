@@ -38,7 +38,6 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 <div align='center'>
 
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'/>
-<img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
  </div>
 <h4 align="center">Frameworks & Libraries:</h4>
@@ -59,6 +58,7 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'/>
+<img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white'/>
 
