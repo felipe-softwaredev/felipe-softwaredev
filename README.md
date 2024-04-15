@@ -2,7 +2,7 @@
 <div background-image: url('https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60')></div>
 <div align="center" backgroundI>
      <h3>💻 Software Engineer </h3>  
-     <h3>⚖️ Legal & Consulting background </h3> 
+     <h3>⚖️ Legal & Corporate background </h3> 
      <h3> ✨ Fan of user-friendly and visually captivating experiences</h3> 
      <h3> 🇧🇷 Brazilian roots 🇺🇸  USA is my Home ✌🏼 Latino pride  </h3>
      <h3> 🎧 Avid streamer & 🎮 Gamer!</h3>  
