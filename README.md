@@ -18,7 +18,7 @@
 My legal and corporate background gives me a unique edge, allowing me to bring fresh perspectives to the table. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. 
 </p>
 
-<img src='https://img.shields.io/badge/Portfolio-purple'/>
+<h3><img src='https://img.shields.io/badge/Portfolio-purple'/></h3>
 
 
 <h2 align="center"> Tech Stack</h2>
