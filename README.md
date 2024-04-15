@@ -28,12 +28,12 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 
 <h4>Languages:</h4>
 <div align='center'>
-<div class='javascript' >
+<p class='javascript' >
      <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-</div>
-<div class='typescript' style="display: inline">
+</p>
+<p class='typescript' style="display: inline">
      <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
-</div>
+</p>
 <div class='python'>
      <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
 </div>
