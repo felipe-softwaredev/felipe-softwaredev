@@ -9,6 +9,16 @@
      <h3> 🎧 Avid streamer & 🎮 Gamer!</h3>  
 
 </div>
+<p >
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
+<div float="left">
+ <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=400 style="border-radius:50"/>
+ <h1>hello</h1>
+     
+</div>
 
 <div align="center">
    <img src='https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60' width=600 style="border-radius:50"/>
