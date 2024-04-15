@@ -22,7 +22,7 @@ My legal and corporate background gives me a unique edge, allowing me to bring f
 </p>
 
 
-
+### Tech Stack: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
 
 
