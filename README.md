@@ -42,6 +42,7 @@ Let's connect! I'm keen to explore opportunities for collaboration and bring ide
 <div align='center'>
 
 <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
 
 
 <img src='https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white'/>
@@ -53,6 +54,7 @@ Let's connect! I'm keen to explore opportunities for collaboration and bring ide
 <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green'/>
+<img src='https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white'/>
 <img src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
 
 <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
