@@ -11,11 +11,18 @@
 
 
 
-<p style="text-align: center; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions while leveraging my creative side. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. Collaboration is central to my approach; I firmly believe in the power of teamwork to bring ideas to fruition. <br><br>
-My legal and corporate background gives me a unique edge, allowing me to bring fresh perspectives to the table. I'm always eager to embrace fresh challenges and continue my learning journey on new technologies. 
+<p style="text-align: center; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. 
+<br><br>
+In my home country, Brazil, I attended law school and practiced for over seven years as an attorney focusing on Public Administration, Torts, and Labor Unions. My key responsibilities included managing client cases, conducting legal research, drafting legal documents, and representing clients in judicial and administrative cases.
+<br>
+However, I wasn't professionally fulfilled and started to consider a career in the Tech Industry, which has always sparked my interest. After moving to the USA in 2019 and working in the networking industry for three years, I decided to study software engineering to improve my coding skills and learn more about the developer profession. Initially self-taught, my interest in coding only grew, which led me to pursue a full-stack coding bootcamp program at [Springboard](https://www.springboard.com/), led by coding instructor Colt Steele. 
+<br> 
+This journey confirmed to me that my passion lies in solving problems and creating applications through code, which is why I solidified my interest in pursuing a career in the Tech Space. I am confident that my legal and corporate background gives me a unique edge as a natural problem-solver who learned to deconstruct projects into smaller parts while looking for solutions that cover all the "edge cases". Moreover, the need for continuous learning is present in both fields. Just as attorneys must adapt to evolving legal landscapes and refine their strategies, software engineers need to be up-to-date with new technologies, frameworks, and coding methodologies to address new challenges and improve existing solutions. 
+<br> 
+I firmly believe in the power of teamwork to bring ideas to fruition. My cross-industry experience allows me to bring fresh perspectives to the table, and I firmly believe in the power of teamwork to bring ideas to fruition..
 </p>
 
-Feel free to check my [Portfolio](https://feliperamos.onrender.com) to see some of my work.
+Check my [Portfolio](https://feliperamos.onrender.com) to see some of my work.
 
 Let's connect! I'm keen to explore opportunities for collaboration and bring ideas to life.
 
