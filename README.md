@@ -20,7 +20,6 @@
 
 Check my [Portfolio](https://feliperamos.onrender.com) to see some of my work.
 
-Check my [Portfolio](https://feliperamos.onrender.com) to see some of my work.
 
 Let's connect! I'm keen to explore opportunities for collaboration and bring ideas to life.
 
