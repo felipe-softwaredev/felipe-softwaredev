@@ -11,7 +11,7 @@
 
 
 
-<p style="text-align: center; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. 
+<p style="text-align: justify; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions. As a self-starter and avid learner, I thrive on embracing new challenges and technologies. 
 <br><br>
 In my home country, Brazil, I attended law school and practiced for over seven years as an attorney focusing on Public Administration, Torts, and Labor Unions. My key responsibilities included managing client cases, conducting legal research, drafting legal documents, and representing clients in judicial and administrative cases.
 <br><br>
