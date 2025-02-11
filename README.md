@@ -9,12 +9,20 @@
 </div>
 <br>
 
+I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.
 
+Originally from Brazil, I attended law school and practiced as an attorney for over seven years. My work involved managing cases, conducting legal research, drafting documents, and representing clients in judicial and administrative matters. Seeking greater fulfillment, I transitioned to tech—a long-standing interest of mine.
 
-<p style="text-align: justify; font-size: large">I am a Fullstack Developer driven by a passion for creating impactful solutions. As a self-starter and avid learner, I thrive on embracing new challenges and technologies.</p> 
-<p style="text-align: justify; font-size: large">In my home country, Brazil, I attended law school and practiced for over seven years as an attorney focusing on Public Administration, Torts, and Labor Unions. My key responsibilities included managing client cases, conducting legal research, drafting legal documents, and representing clients in judicial and administrative cases.</p>
+After moving to the U.S. in 2019 and working in networking for three years, I pursued software engineering. Initially self-taught, my passion for coding led me to complete Springboard’s full-stack bootcamp under Colt Steele.
+
+My legal background equips me with strong analytical skills, a structured approach to problem-solving, and adaptability. I believe in the power of teamwork to bring ideas to life.
+
+Check out my portfolio to see my work. Let’s connect!
+
+<p style="text-align: justify; font-size: large">I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.</p> 
+<p style="text-align: justify; font-size: large">Originally from Brazil, I attended law school and practiced as an attorney for over seven years. My work involved managing cases, conducting legal research, drafting documents, and representing clients in judicial and administrative matters.</p>
 <p style="text-align: justify; font-size: large">However, I wasn't professionally fulfilled and started to consider a career in the Tech Industry, which has always sparked my interest. After moving to the USA in 2019 and working in the networking industry for three years, I decided to study software engineering to improve my coding skills and learn more about the developer profession. Initially self-taught, my interest in coding only grew, which led me to pursue a full-stack coding bootcamp program at <a href="https://www.springboard.com/">Springboard</a>, led by coding instructor Colt Steele. </p>
-<p style="text-align: justify; font-size: large">This journey confirmed to me that my passion lies in solving problems and creating applications through code, which is why I solidified my interest in pursuing a career in the Tech Space. I am confident that my legal and corporate background gives me a unique edge as a natural problem-solver who learned to deconstruct projects into smaller parts while looking for solutions that cover all the "edge cases". Moreover, the need for continuous learning is present in both fields. Just as attorneys must adapt to evolving legal landscapes and refine their strategies, software engineers need to be up-to-date with new technologies, frameworks, and coding methodologies to address new challenges and improve existing solutions. </p>
+<p style="text-align: justify; font-size: large">This journey confirmed to me that my passion lies in solving problems and creating applications through code, which is why I solidified my interest in pursuing a career in the Tech Space. I am confident that my legal and corporate background gives me a unique edge as a natural problem-solver and analytical thinker. </p>
 <p style="text-align: justify; font-size: large">My cross-industry experience allows me to bring fresh perspectives to the table, and I firmly believe in the power of teamwork to bring ideas to fruition.</p>
 
 
