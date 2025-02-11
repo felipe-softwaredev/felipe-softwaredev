@@ -9,15 +9,7 @@
 </div>
 <br>
 
-I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.
 
-Originally from Brazil, I attended law school and practiced as an attorney for over seven years. My work involved managing cases, conducting legal research, drafting documents, and representing clients in judicial and administrative matters. Seeking greater fulfillment, I transitioned to tech—a long-standing interest of mine.
-
-After moving to the U.S. in 2019 and working in networking for three years, I pursued software engineering. Initially self-taught, my passion for coding led me to complete Springboard’s full-stack bootcamp under Colt Steele.
-
-My legal background equips me with strong analytical skills, a structured approach to problem-solving, and adaptability. I believe in the power of teamwork to bring ideas to life.
-
-Check out my portfolio to see my work. Let’s connect!
 
 <p style="text-align: justify; font-size: large">I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.</p> 
 <p style="text-align: justify; font-size: large">Originally from Brazil, I attended law school and practiced as an attorney for over seven years. My work involved managing cases, conducting legal research, drafting documents, and representing clients in judicial and administrative matters.</p>
