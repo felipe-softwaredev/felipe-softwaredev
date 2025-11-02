@@ -3,7 +3,6 @@
 <div align="center" backgroundI>
      <h3>💻 Software Engineer </h3>  
      <h3>⚖️ Legal & Networking background </h3> 
-     <h3> ✨ Fan of user-friendly and visually captivating experiences</h3> 
      <h3> 🇧🇷 Brazilian roots 🇺🇸  USA is my Home ✌🏼 Latino  </h3>
      <h3> 🎧 Avid streamer & 🎮 Gamer</h3>  
 </div>
