@@ -1,4 +1,4 @@
-<h1 align="center"> Felipe Ramos</h1>
+<!-- <h1 align="center"> Felipe Ramos</h1>
 <div background-image: url('https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60')></div>
 <div align="center" backgroundI>
      <h3>💻 Software Engineer </h3>  
@@ -79,7 +79,7 @@ Let's connect! I'm keen to explore opportunities for collaboration and bring ide
 <div align='center'>
 <img src='https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
- </div>
+ </div> -->
 
 
 
