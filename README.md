@@ -1,4 +1,4 @@
-<!-- <h1 align="center"> Felipe Ramos</h1>
+<h1 align="center"> Felipe Ramos</h1>
 <div background-image: url('https://github.com/fliperamos88/fliperamos88/assets/129113618/ca6842ef-6859-44df-b4c5-c6a537465f60')></div>
 <div align="center" backgroundI>
      <h3>💻 Software Engineer </h3>  
@@ -10,7 +10,7 @@
 
 
 
-<p style="text-align: justify; font-size: large">I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.</p> 
+<!-- <p style="text-align: justify; font-size: large">I’m a Fullstack Developer passionate about building and problem-solving. A self-starter and avid learner, I thrive on tackling new challenges and technologies.</p> 
 <p style="text-align: justify; font-size: large">Originally from Brazil, I attended law school and practiced as an attorney for over seven years. My work involved managing cases, conducting legal research, drafting documents, and representing clients in judicial and administrative matters.</p>
 <p style="text-align: justify; font-size: large">However, I wasn't professionally fulfilled and started to consider a career in the Tech Industry, which has always sparked my interest. After moving to the USA in 2019 and working in the networking industry for three years, I decided to study software engineering to improve my coding skills and learn more about the developer profession. Initially self-taught, my interest in coding only grew, which led me to pursue a full-stack coding bootcamp program at <a href="https://www.springboard.com/">Springboard</a>, led by coding instructor Colt Steele. </p>
 <p style="text-align: justify; font-size: large">This journey confirmed to me that my passion lies in solving problems and creating applications through code, which is why I solidified my interest in pursuing a career in the Tech Space. I am confident that my legal and corporate background gives me a unique edge as a natural problem-solver and analytical thinker. </p>
