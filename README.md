@@ -5,7 +5,7 @@
      <h3>⚖️ Legal & Consulting background </h3> 
      <h3> 🇧🇷 Brazilian roots 🇺🇸  USA is my Home ✌🏼 Latino  </h3>
      <h3> 🎧 Avid streamer & 🎮 Gamer</h3>  
-     <h3> <a href='https://www.credential.net/57f55f76-1442-48e1-89dd-1a459ca9ca32#acc.WCGZfwDg'>Full Stack Developer Certificate </a></h3> 
+     <h3> <a href='https://www.credential.net/57f55f76-1442-48e1-89dd-1a459ca9ca32#acc.WCGZfwDg' style="text-decoration: underline;">Full Stack Developer Certificate </a></h3> 
 
 
 
